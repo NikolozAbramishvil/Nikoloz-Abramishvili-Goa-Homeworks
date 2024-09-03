@@ -1,0 +1,18 @@
+form,h1{
+    text-align: center;
+    color: white;
+}
+h1{
+    background-color: purple;
+    padding: 30px;
+}
+button{
+    background-color: purple;
+    color: white;
+}
+input{
+    padding: 13px;
+}
+p{
+    color:black
+}
