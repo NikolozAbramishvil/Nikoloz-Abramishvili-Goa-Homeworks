@@ -1,0 +1,31 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.parent{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width:1200px;
+    height:900px;
+    border:3px solid black;
+}
+.child{
+    border:3px solid black;
+    background-color:brown;
+    color:white;
+    border-radius:10px;
+    padding:100px;
+    margin:3px;
+    height: 300px;
+    font-weight:bold;
+    font-size:bolder;
+}
+.child-4{
+    grid-column-start:1;
+    grid-column-end:4;
+    height:178px;
+    padding-left:560px;
+    
+}
+

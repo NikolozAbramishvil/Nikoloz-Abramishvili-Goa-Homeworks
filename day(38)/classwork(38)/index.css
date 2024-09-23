@@ -1,0 +1,31 @@
+
+div {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    animation-name:firstanim;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+}
+@keyframes firstanim{
+    20%{
+         background-color:blue;
+         transform:rotate(360deg) translate(100px,100px)
+     }
+    40%{
+         background-color:brown;
+         transform:rotate(250deg) translate(200px,400px)
+     }
+    60%{
+        background-color:green;
+        transform:rotate(160deg) translate(150px,120px)
+    }
+    80%{
+        background-color:blueviolet;
+        transform:rotate(-340deg) translate(250px,100px)
+    }
+    100%{
+        background-color:white;
+        transform:rotate(60deg) translate(350px,130px)
+    }
+}
