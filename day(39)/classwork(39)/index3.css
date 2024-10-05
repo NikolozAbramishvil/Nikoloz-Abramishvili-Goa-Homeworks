@@ -1,0 +1,18 @@
+/*root გამოიყენება იმისტვის რომ შევინახოთ ისეთი ინფორმაცია და მნიშვნელობები რომლებსაც ღშირად ვიყენებთ ვვებგვერძე */
+div{
+    height:300px;
+    width:300px;
+    position: absolute;
+    align-items:center;
+    left:300px;
+    top:300px;
+}
+div:hover{
+    transform:rotate(30deg);
+    -webkit-transform: rotate(100deg);
+    -ms-transform:rotate(200deg);
+/*prefix
+-webkit-transform: ; Chrome, Safari
+-moz-transform: ;    Firefox 
+-ms-transform:  ;  Internet Explorer */
+}
