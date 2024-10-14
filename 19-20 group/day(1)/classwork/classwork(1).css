@@ -1,0 +1,14 @@
+#parent{
+    height:100px;
+    width:70%;
+    background-color:black
+}
+#child{
+    width: 50%;
+    height:50%;
+    background-color: red ;
+    font-size:100px
+}
+p{
+    font-size:20%;
+}
