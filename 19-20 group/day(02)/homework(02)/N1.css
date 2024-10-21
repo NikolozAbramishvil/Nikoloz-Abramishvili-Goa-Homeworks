@@ -1,0 +1,18 @@
+#name{
+    text-transform: uppercase;
+}
+#surename{
+    text-transform: lowercase;
+}
+#nickname{
+    text-transform: capitalize;
+}
+#P1{
+    text-decoration: green underline wavy;
+}
+#P2{
+    text-decoration:underline overline dashed red;
+}
+#P3{
+    text-decoration:line-through blue dashed ;
+}

@@ -1,0 +1,32 @@
+#N1{
+    text-decoration: underline;
+    color:black;
+}
+#N2{
+    text-decoration: overline;
+    color:brown 
+}
+#N3{
+    text-decoration: line-through;
+    color:pink
+}
+
+#M1 {
+     text-decoration: overline underline;
+     color: blueviolet;
+}
+
+#M2{
+    text-decoration: overline line-through;
+    color: crimson;
+}
+
+#M3{
+    text-decoration: underline line-through;
+    color: chartreuse;
+}
+
+#M4{
+    text-decoration: overline underline line-through;
+    color:  yellow;
+}
