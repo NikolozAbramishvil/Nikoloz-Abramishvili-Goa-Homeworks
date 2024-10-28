@@ -1,0 +1,18 @@
+p{
+    font-size:30px;
+}
+#first{
+    font-family:serif;
+}
+#second{
+    font-family:sans-serif;
+}
+#third{
+    font-family:monospace;
+}
+#forth{
+    font-family:fantasy;
+}
+#fifth{
+    font-family:cursive;
+}
