@@ -1,0 +1,29 @@
+#first:link{
+    color:blue;
+}
+#first:visited{
+    color:blueviolet;
+}
+#first:hover{
+    color:white;
+    background-color:black;
+}
+#first:active{
+    font-size:large;
+    background-color:aqua ;
+
+}
+button{
+    color:white;
+    background-color:black;
+}
+button:hover{
+    color:black;
+    background-color:grey 
+} 
+#second{
+    text-decoration: none;
+}
+#second:hover{
+    text-decoration:underline;
+}

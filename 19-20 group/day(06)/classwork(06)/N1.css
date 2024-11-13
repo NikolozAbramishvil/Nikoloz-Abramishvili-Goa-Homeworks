@@ -1,0 +1,43 @@
+a{
+    text-decoration:none;
+    color:red;
+}
+a:hover{
+    font-size:200px;
+    color:brown;
+    text-decoration:underline;
+}
+button{
+    color:red;
+    background-color: black;
+    width:50px;
+}
+button:hover{
+    color:aqua;
+    background-color: red;
+    width:100px
+}
+#ph1{
+    height:200px;
+    width:300px;
+
+}
+#ph2{
+    height:200px;
+    width:300px;
+
+}
+
+#ph1:hover{
+    height:250;
+    width:350px;
+    transition: 1s;
+
+}
+
+#ph2:hover{
+    height:250;
+    width:350px;
+    transition: 1s;
+
+}
