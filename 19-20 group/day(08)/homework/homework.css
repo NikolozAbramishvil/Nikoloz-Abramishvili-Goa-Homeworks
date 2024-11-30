@@ -1,0 +1,9 @@
+table,tr,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+tr:hover:nth-child(even){
+    background-color:rgb(0, 0, 255);
+    color:white;
+}
+/* padding აკონტროლებს კონტენტსა და ბორდერს შორის სივრცის ზომას*/
